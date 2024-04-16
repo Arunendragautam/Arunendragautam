@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ad6ba38bf4c0d8e73b06b2fbf1b0ba25123b23c15898a110cd3fe58f9abae0a6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33372f34612f39632f33373461396365363138326237613861616664386336656136623639386666332e676966)](https://kautilyamishra.netlify.app/)
+[![MasterHead](https://camo.githubusercontent.com/ad6ba38bf4c0d8e73b06b2fbf1b0ba25123b23c15898a110cd3fe58f9abae0a6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33372f34612f39632f33373461396365363138326237613861616664386336656136623639386666332e676966)](https://arunendra-gautam.netlify.app/)
 <h1 align="center">Hi 👋, I'm Arunendra Gautam</h1>
 <h3 align="center">A Web Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [https://arunendra-gautam.netlify.app/](Arunendra's Portfolio)
 
 - 💬 Ask me about **Web Development, DSA**
 
 - 📫 How to reach me **arunendragautam9@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xvHP1SozrN2noOaxbVBBpRUZ0pDrESMI/view?usp=drive_link](Resume)
 
 - ⚡ Fun fact **Why don't programmers like nature? It has too many bugs!**
 
