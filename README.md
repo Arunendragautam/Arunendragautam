@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://arunendra-gautam.netlify.app/](Arunendra's Portfolio)
+- 👨‍💻 All of my projects are available at [https://arunendra-gautam.netlify.app/] (Arunendra's Portfolio)
 
 - 💬 Ask me about **Web Development, DSA**
 
