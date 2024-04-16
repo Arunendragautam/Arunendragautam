@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://arunendra-gautam.netlify.app/] (Arunendra's Portfolio)
+- 👨‍💻 All of my projects are available at [Arunendra's Portfolio](https://arunendra-gautam.netlify.app/).
 
 - 💬 Ask me about **Web Development, DSA**
 
 - 📫 How to reach me **arunendragautam9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xvHP1SozrN2noOaxbVBBpRUZ0pDrESMI/view?usp=drive_link](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xvHP1SozrN2noOaxbVBBpRUZ0pDrESMI/view?usp=drive_link)
 
 - ⚡ Fun fact **Why don't programmers like nature? It has too many bugs!**
 
