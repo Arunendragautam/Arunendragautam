@@ -46,9 +46,10 @@ Enthusiastic and detail-oriented **Software Engineer** with hands-on experience 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunendra-gautam&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunendra-gautam&layout=compact&theme=default)  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunendragautam&show_icons=true&theme=onedark&cache_seconds=86400)](https://github.com/Arunendragautam)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunendragautam&layout=compact&theme=onedark&cache_seconds=86400)](https://github.com/Arunendragautam/github-readme-stats)  
 
 ---
-✨ *“Strive for clean code, scalable design, and continuous learning.”* ✨
 
+✨ *“Strive for clean code, scalable design, and continuous learning.”* ✨
